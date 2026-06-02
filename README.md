@@ -1,7 +1,8 @@
-# Hi there 👋
 
-> Firmware & Embedded Engineer  
-> 센서 데이터 수집부터 무선 통신까지, 하드웨어와 소프트웨어의 경계를 다룹니다.
+# Jeoung Eunji
+🔧 **Embedded / Firmware Engineer**  
+⚡ 센서가 제품이 되는 순간을 만듭니다  
+📬 juwin501@naver.com
 
 ---
 
