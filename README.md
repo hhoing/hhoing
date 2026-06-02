@@ -1,4 +1,6 @@
-https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Venom.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=내용입력&fontSize=90" />
+
+
 # Jeong Eunji
 🔧 **Embedded / Firmware Engineer**  
 ⚡ 센서가 제품이 되는 순간을 만듭니다  
