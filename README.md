@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=purple&height=200&section=header&text=센서가 제품이 되는 순간을 만듭니다&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8871e5&height=200&section=header&text=센서가 제품이 되는 순간을 만듭니다&fontSize=90" />
 
 
 # Jeong Eunji
