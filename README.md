@@ -39,9 +39,9 @@
 
 | 프로젝트 | 설명 | 기술 스택 |
 |----------|------|-----------|
-| [AirMouse](https://github.com/hhoing/MCU-AirMouse) | 9축 IMU 기반 BLE 에어마우스 · Hybrid 센서 퓨전 | C++, BLE HID, Kalman Filter |
-| [TerraGarden](https://github.com/hhoing/MCU-TerraGarden) | 단일 MCU I2C·PWM·UART 동시 제어 · 캡스톤 장려상 | C++, I2C, UART, PWM |
-| [TomatoGarden](https://github.com/hhoing/MCU-TomatoGarden) | IoT 환경 제어 · Azure IoT Hub 실시간 연동 | C++, MQTT, Azure IoT, WiFi |
+| [AirMouse](https://github.com/hhoing/MCU-AirMouse) | 9축 IMU 기반 BLE 에어마우스, Hybrid 센서 퓨전 | C++, BLE HID, Kalman Filter |
+| [TerraGarden](https://github.com/hhoing/MCU-TerraGarden) | 단일 MCU I2C·PWM·UART 동시 제어, 캡스톤 장려상 | C++, I2C, UART, PWM |
+| [TomatoGarden](https://github.com/hhoing/MCU-TomatoGarden) | IoT 환경 제어, Azure IoT Hub 실시간 연동 | C++, MQTT, Azure IoT, WiFi |
 | [ResNet50-Bird-Classification](https://github.com/hhoing/ResNet50-Bird-Classification) | ResNet50 기반 조류 이미지 분류 | Python, PyTorch, Jupyter |
 
 ---
