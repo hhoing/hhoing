@@ -1,5 +1,5 @@
 
-# Jeoung Eunji
+# Jeong Eunji
 🔧 **Embedded / Firmware Engineer**  
 ⚡ 센서가 제품이 되는 순간을 만듭니다  
 📬 juwin501@naver.com
