@@ -1,9 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8871e5&height=200&section=header&text=센서가 제품이 되는 순간을 만듭니다&fontSize=90" />
-
 
 # Jeong Eunji
-🔧 **Embedded / Firmware Engineer**  
-⚡ 센서가 제품이 되는 순간을 만듭니다  
+🔧 **Embedded / Firmware Engineer**
+⚡ Turning sensors into products
+🎓 Soongsil University, Dept. of Mechanical Engineering
 📬 juwin501@naver.com
 
 ---
