@@ -1,8 +1,8 @@
 
 # Jeong Eunji
 🔧 **Embedded / Firmware Engineer**
-⚡ Turning sensors into products
-🎓 Soongsil University, Dept. of Mechanical Engineering
+⚡ 센서가 제품이 되는 순간을 만듭니다
+🎓 숭실대학교 기계공학부
 📬 juwin501@naver.com
 
 ---
