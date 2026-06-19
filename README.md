@@ -49,7 +49,7 @@
 | [TerraGarden](https://github.com/hhoing/MCU-TerraGarden) | 단일 MCU I2C/PWM/UART 동시 제어, 캡스톤 장려상 | C++, I2C, UART, PWM |
 | [TomatoGarden](https://github.com/hhoing/MCU-TomatoGarden) | IoT 환경 제어, Azure IoT Hub 실시간 연동 | C++, MQTT, Azure IoT, WiFi |
 | [ResNet50-Bird-Classification](https://github.com/hhoing/ResNet50-Bird-Classification) | ResNet50 기반 조류 이미지 분류 | Python, PyTorch, Jupyter |
-| Traffic light perception | YOLOv4 신호등 인식, ROS2 Stanley 제어, K-City 실주행 | Python, ROS2, YOLOv4, Linux |
+| [Traffic light perception](https://github.com/hhoing/ROS2-ERP42-TrafficLight) | YOLOv4 신호등 인식, ROS2 Stanley 제어, K-City 실주행 | Python, ROS2, YOLOv4, Linux |
 
 ---
 
